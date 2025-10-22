@@ -17,7 +17,8 @@
 - :computer: Estoy aprendiendo y manejando tecnologias como `JavaScript`, `Java`, `Angular`, `MySQL`, `PHP`, `Docker`, `Git`, `Github`, `Postman`, `Node.js`.
 - :nerd_face: Siempre estoy `aprendiendo cosas nuevas` y siempre estoy en mi PC.
 - :thinking: Estoy abierto a `oferta de trabajo`
-- <br>
+
+<br>
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -35,8 +36,8 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="PhP" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
