@@ -14,8 +14,8 @@
 - :student: Actualmente estoy estudiando `Desarrollo de Aplicaciones Web`.
 - :technologist: Me encanta encontrar soluciones a todo los `Problemas`.
 - :computer: Estoy aprendiendo y manejando tecnologias como `JavaScript`, `Java`, `Angular`, `MySQL`, `PHP`, `Docker`, `Git`, `Github`, `Postman`, `Node.js`.
-- :nerd_face: Siempre estoy `aprendiendo cosas nuevas` y siempre estoy en mi PC.
-- :thinking: Estoy abierto a `oferta de trabajo`
+- :nerd_face: Siempre estoy `aprendiendo cosas nuevas` y siendo muy friki.
+- :thinking: Estoy abierto a `ofertas de trabajo`
 
 <br>
 
